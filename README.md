@@ -3,3 +3,5 @@
 Учебный проект для комплексной работы по Git
 
 Draft documentation
+
+Incorrect project description
